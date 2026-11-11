@@ -1,0 +1,255 @@
+LOG SISTEM PERINGATAN DINI SENSOR POMPA INDUSTRI 
+
+======================= METODE: WBS =======================
+[PERINGATAN] Terdeteksi di Menit ke-1219
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 634.80 PSI menjadi 639.76 PSI (Shift: 0.8%)
+   >> LEAD TIME : 4 Hari, 2 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-1751
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 639.47 PSI menjadi 603.14 PSI (Shift: 5.7%)
+   >> LEAD TIME : 3 Hari, 18 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-1890
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 603.48 PSI menjadi 612.64 PSI (Shift: 1.5%)
+   >> LEAD TIME : 3 Hari, 15 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2059
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 614.87 PSI menjadi 624.49 PSI (Shift: 1.6%)
+   >> LEAD TIME : 3 Hari, 12 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2121
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 624.57 PSI menjadi 656.38 PSI (Shift: 5.1%)
+   >> LEAD TIME : 3 Hari, 11 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2195
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 658.18 PSI menjadi 624.36 PSI (Shift: 5.1%)
+   >> LEAD TIME : 3 Hari, 10 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2495
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 623.65 PSI menjadi 632.20 PSI (Shift: 1.4%)
+   >> LEAD TIME : 3 Hari, 5 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3606
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 633.11 PSI menjadi 624.59 PSI (Shift: 1.3%)
+   >> LEAD TIME : 2 Hari, 11 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3692
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 624.04 PSI menjadi 614.23 PSI (Shift: 1.6%)
+   >> LEAD TIME : 2 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3790
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 614.32 PSI menjadi 618.88 PSI (Shift: 0.7%)
+   >> LEAD TIME : 2 Hari, 8 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3840
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 617.71 PSI menjadi 622.99 PSI (Shift: 0.9%)
+   >> LEAD TIME : 2 Hari, 7 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3965
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 623.43 PSI menjadi 628.54 PSI (Shift: 0.8%)
+   >> LEAD TIME : 2 Hari, 5 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-4044
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 628.15 PSI menjadi 634.28 PSI (Shift: 1.0%)
+   >> LEAD TIME : 2 Hari, 3 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5133
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 634.26 PSI menjadi 615.04 PSI (Shift: 3.0%)
+   >> LEAD TIME : 1 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5204
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 614.84 PSI menjadi 624.22 PSI (Shift: 1.5%)
+   >> LEAD TIME : 1 Hari, 8 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5318
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 624.88 PSI menjadi 634.10 PSI (Shift: 1.5%)
+   >> LEAD TIME : 1 Hari, 6 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5540
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 633.39 PSI menjadi 638.61 PSI (Shift: 0.8%)
+   >> LEAD TIME : 1 Hari, 2 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5809
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 638.90 PSI menjadi 633.86 PSI (Shift: 0.8%)
+   >> LEAD TIME : 0 Hari, 22 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-6079
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 633.11 PSI menjadi 639.21 PSI (Shift: 1.0%)
+   >> LEAD TIME : 0 Hari, 17 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-6601
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 639.40 PSI menjadi 634.08 PSI (Shift: 0.8%)
+   >> LEAD TIME : 0 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7135
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 634.30 PSI menjadi 169.08 PSI (Shift: 73.3%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7144
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 628.11 PSI menjadi 81.07 PSI (Shift: 87.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7147
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 616.53 PSI menjadi 61.13 PSI (Shift: 90.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7151
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 583.75 PSI menjadi 52.12 PSI (Shift: 91.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7156
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 540.92 PSI menjadi 42.97 PSI (Shift: 92.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+
+======================= METODE: TGUH =======================
+[PERINGATAN] Terdeteksi di Menit ke-1219
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 634.80 PSI menjadi 639.76 PSI (Shift: 0.8%)
+   >> LEAD TIME : 4 Hari, 2 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-1751
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 639.47 PSI menjadi 603.14 PSI (Shift: 5.7%)
+   >> LEAD TIME : 3 Hari, 18 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-1891
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 603.63 PSI menjadi 612.79 PSI (Shift: 1.5%)
+   >> LEAD TIME : 3 Hari, 15 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2043
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 613.16 PSI menjadi 622.46 PSI (Shift: 1.5%)
+   >> LEAD TIME : 3 Hari, 13 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2121
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 624.57 PSI menjadi 656.38 PSI (Shift: 5.1%)
+   >> LEAD TIME : 3 Hari, 11 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2195
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 658.18 PSI menjadi 624.36 PSI (Shift: 5.1%)
+   >> LEAD TIME : 3 Hari, 10 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-2495
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 623.65 PSI menjadi 632.20 PSI (Shift: 1.4%)
+   >> LEAD TIME : 3 Hari, 5 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3606
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 633.11 PSI menjadi 624.59 PSI (Shift: 1.3%)
+   >> LEAD TIME : 2 Hari, 11 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3692
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 624.04 PSI menjadi 614.23 PSI (Shift: 1.6%)
+   >> LEAD TIME : 2 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3790
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 614.32 PSI menjadi 618.88 PSI (Shift: 0.7%)
+   >> LEAD TIME : 2 Hari, 8 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3839
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 617.74 PSI menjadi 622.82 PSI (Shift: 0.8%)
+   >> LEAD TIME : 2 Hari, 7 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-3975
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 624.23 PSI menjadi 628.38 PSI (Shift: 0.7%)
+   >> LEAD TIME : 2 Hari, 5 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-4044
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 628.15 PSI menjadi 634.28 PSI (Shift: 1.0%)
+   >> LEAD TIME : 2 Hari, 3 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5132
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 634.41 PSI menjadi 615.28 PSI (Shift: 3.0%)
+   >> LEAD TIME : 1 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5204
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 614.84 PSI menjadi 624.22 PSI (Shift: 1.5%)
+   >> LEAD TIME : 1 Hari, 8 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5318
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 624.88 PSI menjadi 634.10 PSI (Shift: 1.5%)
+   >> LEAD TIME : 1 Hari, 6 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5557
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 634.80 PSI menjadi 638.76 PSI (Shift: 0.6%)
+   >> LEAD TIME : 1 Hari, 2 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-5809
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 638.90 PSI menjadi 633.86 PSI (Shift: 0.8%)
+   >> LEAD TIME : 0 Hari, 22 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-6084
+   >> Jenis     : LONJAKAN (Spike)
+   >> Perubahan : 633.30 PSI menjadi 639.16 PSI (Shift: 0.9%)
+   >> LEAD TIME : 0 Hari, 17 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[PERINGATAN] Terdeteksi di Menit ke-6610
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 638.74 PSI menjadi 634.06 PSI (Shift: 0.7%)
+   >> LEAD TIME : 0 Hari, 9 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7135
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 634.30 PSI menjadi 169.08 PSI (Shift: 73.3%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7144
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 628.11 PSI menjadi 81.07 PSI (Shift: 87.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7147
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 616.53 PSI menjadi 61.13 PSI (Shift: 90.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7151
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 583.75 PSI menjadi 52.12 PSI (Shift: 91.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
+[KRITIS] Terdeteksi di Menit ke-7156
+   >> Jenis     : PENURUNAN (Drop)
+   >> Perubahan : 540.92 PSI menjadi 42.97 PSI (Shift: 92.1%)
+   >> LEAD TIME : 0 Hari, 0 Jam sebelum estimasi mati total.
+------------------------------------------------------
