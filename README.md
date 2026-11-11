@@ -60,13 +60,13 @@ Contoh isi log:
 
 Pada data ini keduanya memberi hasil yang hampir sama (semua titik KRITIS identik, selisih titik PERINGATAN paling jauh 17 menit), jadi saya tidak bisa menyatakan salah satunya lebih baik dari satu kejadian kerusakan saja. Perbandingan yang lebih terkontrol, dengan ground truth dari simulasi, ada di tugas akhir saya: https://github.com/jdsea-ux/Change-Point-Detection.
 
-## Ide pengembangan (belum dikerjakan)
+## Ide Pengembangan (belum dikerjakan)
 
 - Menguji algoritma pada lebih dari satu kejadian kerusakan dan lebih dari satu sensor.
 - Menentukan ambang batas bersama orang yang paham mesinnya.
 - Mengubahnya menjadi deteksi *online* dengan jendela waktu berjalan, bukan analisis sekali jalan.
 
-## Cara menjalankan
+## Cara Menjalankan
 
 1. Pasang **R** dan **RStudio**.
 2. Pasang pustakanya:
